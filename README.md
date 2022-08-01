@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/daniells_png">
 </a>
 
-![Snake animation](https://github.com/DanielsPng/DanielsPng/blob/output/github-contribution-grid-snake.svg)
 
 
 
